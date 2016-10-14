@@ -15,13 +15,13 @@ and ...
 
 Example Bot : @photoandsticker_bot
 
-#How To Launch =>\n
-  `Pish Niaz Ha !`\n
-  _sudo apt-get install python-pip_\n
-  _pip install pytelegrambotapi_\n
-  `Installation`\n
-  _git clone https://github.com/Think-Team/StickerBot_\n
-  _cd Stickerbot_\n
-  ++++++++ Copy Your Token And Id On Config.py ++++++++\n
-  _python bot.py_\n
+*How To Launch =>*
+  `Pish Niaz Ha !`
+  _sudo apt-get install python-pip_
+  _pip install pytelegrambotapi_
+  `Installation`
+  _git clone https://github.com/Think-Team/StickerBot_
+  _cd Stickerbot_
+  ++++++++ Copy Your Token And Id On Config.py ++++++++
+  _python bot.py_
   Will You See Onlined Pm On Terminal And Your Pv :|<3
