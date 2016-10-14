@@ -20,8 +20,9 @@ Example Bot : @photoandsticker_bot
   _sudo apt-get install python-pip_&&
   _pip install pytelegrambotapi_&&
   _git clone https://github.com/Think-Team/StickerBot&&
-  _cd Stickerbot_&&
-  _python bot.py_
+  _cd Stickerbot_
   
-  `  ++++++++ Copy Your Token And Id On Config.py ++++++++`
+  
+    `  ++++++++ Copy Your Token And Id On Config.py ++++++++` Then
+  _python bot.py_          
   Will You See Onlined Pm On Terminal And Your Pv :|<3
