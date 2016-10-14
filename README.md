@@ -16,13 +16,13 @@ and ...
 Example Bot : @photoandsticker_bot
 
 *How To Launch =>*
-  `Installation`
-  _sudo apt-get install python-pip_&&
-  _pip install pytelegrambotapi_&&
-  _git clone https://github.com/Think-Team/StickerBot&&
-  _cd Stickerbot_
+  `Installation =>`
+  sudo apt-get install python-pip&&
+  pip install pytelegrambotapi&&
+  git clone https://github.com/Think-Team/StickerBot&&
+  cd Stickerbot
   
   
     `  ++++++++ Copy Your Token And Id On Config.py ++++++++` Then
-  _python bot.py_          
+  python bot.py   
   Will You See Onlined Pm On Terminal And Your Pv :|<3
